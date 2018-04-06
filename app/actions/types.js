@@ -1,0 +1,13 @@
+// Auth types
+export const EMAIL_CHANGED = 'EMAIL_CHANGED';
+export const PASSWORD_CHANGED = 'PASSWORD_CHANGED';
+export const LOGIN_USER_START = 'LOGIN_USER_START';
+export const LOGIN_USER_SUCCESS = 'LOGIN_USER_SUCCESS';
+export const LOGIN_USER_ERROR = 'LOGIN_USER_ERROR';
+export const LOGOUT_USER = 'LOGOUT_USER';
+export const LOGOUT_USER_ERROR = 'LOGOUT_USER_ERROR';
+
+// Scene types
+export const SELECT_SCENE = 'SELECT_SCENE';
+export const SCENE_LOADING = 'SCENE_LOADING';
+export const SCENE_ERROR = 'SCENE_ERROR';
